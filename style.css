@@ -1,0 +1,31 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  margin: 90px;
+  font-weight: bold;
+  text-align: justify;
+  text-align: center;
+}
+#Code{
+  margin: 45% auto;
+  background-color: white;
+  border-radius: 30px;
+  width: 680px;
+  height: 880px;
+}
+section{
+  padding: 40px;
+}
+img{
+  border-radius: 05%;
+}
+section h1{
+  color: hsl(218, 44%, 22%);
+  padding-top: 5px;
+  font-size: 40px;
+}
+section p{
+  font-size: 19px;
+  color: hsl(220, 15%, 55%);
+  font-weight: normal;
+}
